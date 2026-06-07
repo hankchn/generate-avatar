@@ -1,0 +1,4 @@
+interface:
+  display_name: "头像生成器"
+  short_description: "生成适配小红书、X、GitHub 等平台的卡通头像候选与导出版本"
+  default_prompt: "使用 $generate-avatar 为我设计一组适合社交平台的卡通头像。"

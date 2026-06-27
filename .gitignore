@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+*.zip
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+node_modules/
+.env
+.env.*
+.tmp/
+tmp/
+work/
+output/
+outputs/
